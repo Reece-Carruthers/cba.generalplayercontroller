@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\UnitTests\\generalplayercontroller.unittest.csproj": {}
+  },
+  "projects": {
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj",
+        "projectName": "Base Editor Library",
+        "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj",
+        "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elite\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj",
+        "projectName": "generalplayercontroller",
+        "projectPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj",
+        "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
+        "outputPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elite\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Editor\\generalplayercontroller.editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Editor\\generalplayercontroller.editor.csproj",
+        "projectName": "generalplayercontroller.editor",
+        "projectPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Editor\\generalplayercontroller.editor.csproj",
+        "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
+        "outputPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Editor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elite\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj": {
+                "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj"
+              },
+              "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj": {
+                "projectPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\UnitTests\\generalplayercontroller.unittest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\UnitTests\\generalplayercontroller.unittest.csproj",
+        "projectName": "generalplayercontroller.unittest",
+        "projectPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\UnitTests\\generalplayercontroller.unittest.csproj",
+        "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
+        "outputPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\elite\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj": {
+                "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\sbox\\addons\\tools\\Code\\Base Editor Library.csproj"
+              },
+              "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj": {
+                "projectPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Code\\generalplayercontroller.csproj"
+              },
+              "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Editor\\generalplayercontroller.editor.csproj": {
+                "projectPath": "c:\\users\\elite\\documents\\s&box projects\\playground\\Libraries\\cba.generalplayercontroller\\Editor\\generalplayercontroller.editor.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
